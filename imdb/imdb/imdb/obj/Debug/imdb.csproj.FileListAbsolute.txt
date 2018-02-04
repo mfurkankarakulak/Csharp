@@ -1,0 +1,16 @@
+D:\imdb\imdb\imdb\bin\Debug\imdb.exe.config
+D:\imdb\imdb\imdb\bin\Debug\imdb.exe
+D:\imdb\imdb\imdb\bin\Debug\imdb.pdb
+D:\imdb\imdb\imdb\obj\Debug\imdb.csprojResolveAssemblyReference.cache
+D:\imdb\imdb\imdb\obj\Debug\imdb.arama.resources
+D:\imdb\imdb\imdb\obj\Debug\imdb.ayrinti.resources
+D:\imdb\imdb\imdb\obj\Debug\imdb.film.resources
+D:\imdb\imdb\imdb\obj\Debug\imdb.Form1.resources
+D:\imdb\imdb\imdb\obj\Debug\imdb.Properties.Resources.resources
+D:\imdb\imdb\imdb\obj\Debug\imdb.Sanatcilar.resources
+D:\imdb\imdb\imdb\obj\Debug\imdb.top.resources
+D:\imdb\imdb\imdb\obj\Debug\imdb.uye_giris.resources
+D:\imdb\imdb\imdb\obj\Debug\imdb.Yorum_Yap.resources
+D:\imdb\imdb\imdb\obj\Debug\imdb.csproj.GenerateResource.Cache
+D:\imdb\imdb\imdb\obj\Debug\imdb.exe
+D:\imdb\imdb\imdb\obj\Debug\imdb.pdb
