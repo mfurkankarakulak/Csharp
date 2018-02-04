@@ -1,0 +1,2 @@
+client uygulamayý kapattýgýnda socket.close() yapýlacak
+eðer baþkasýndan mesaj geliyorsa yeni pencerede gelen mesaj gosterilecek
